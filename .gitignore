@@ -1,0 +1,18 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/core-plugins-migration.json
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
